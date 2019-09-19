@@ -42,7 +42,7 @@
 ## Getting Started
 
 ```
-npm install react-mapbox-gl mapbox-gl --save
+npm install react-mapbox-gl mapbox-gl css-loader --save
 ```
 
 Example:
